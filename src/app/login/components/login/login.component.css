@@ -1,0 +1,14 @@
+#main {
+    min-height: calc(100vh - 75px);
+    margin: 0xp;
+    background-color: rgb(240, 240, 240);
+}
+
+#link {
+    text-decoration: none;
+}
+
+.text-icon {
+    border-radius: 5px 0px 0px 5px;
+    height: 100%;
+}
